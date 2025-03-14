@@ -1,6 +1,4 @@
----
-layout: post
----
+
 # What's this?
 Hey there! It looks like you've stumbled on my little corner of the internet. 
 
