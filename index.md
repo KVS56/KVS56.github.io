@@ -6,5 +6,6 @@ I'm Krishna Vaibhav Sharma. You may already know me. If you don't, allow me to e
 that. You'll know me atleast a little bit. 
 
 `Pronouns`: he/him
+
 `languages I speak (or understand)`: Hindi, English, Panjabi, Sanskrit
 
