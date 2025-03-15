@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## The Mountain View
 
 _Fair and known fields do the heart gladden
