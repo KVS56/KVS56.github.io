@@ -1,11 +1,11 @@
 
 # What's this and who are you?
-Hey there! I'm Krishna Vaibhav Sharma. It looks like you've stumbled on my little corner of the internet. There can be any number of reasons why that happened. You may already know me. In that case, you may have looked at someone else's site, and thought: 
+Hey there! I'm Krishna Vaibhav Sharma. (I also sometimes use the name Parsel. It wasn't mine, actually, in the beginning.) It looks like you've stumbled on my little corner of the internet. There can be any number of reasons why that happened. You may already know me. In that case, you may have looked at someone else's site, and thought: 
 > Impressive, very nice, now let's see Krishna's personal website.
 
 Or, you may have seen it linked somewhere. In which case, you may have thought:
 
-> Not all  projects are broken.
+> Not all projects are broken.
 
 Or, you may not know me at all. If you don't, allow me to entertain you for a little while, so I can change 
 that. You'll know me - at least a little bit. 
@@ -46,3 +46,5 @@ Not only do I read a lot, sometimes I can be found penning (or typing) down my d
 - [The Mountain View](./mountainpeak.html)
 - [Apokalypso](./apokalypso.html)
 - [Sur la nature des hommes](./afewlines.html)
+
+This is all poetry, but I also write essays and prose. I haven't put any online though, at the moment. If you have any reviews/comments, you can either email me at zeparselmouth@gmail.com or wait until I implement a commenting platform. You can also check out my crappy code projects on my [GitHub](github.com/KVS56).
