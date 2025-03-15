@@ -1,21 +1,21 @@
 ## The Mountain View
 
-_Fair and known fields do the heart gladden
+_Fair and known fields do the heart gladden_
 
-Yet the sights of heights unexplored a dreamer madden_
-
-
-_Tall the peaks & snowy white the slope
-
-Oh, to conquer that mountain I do hope_
+_Yet the sights of heights unexplored a dreamer madden_
 
 
-_For these fields many do daily walk
+_Tall the peaks & snowy white the slope_
 
-But of the eagle's perch even the ambitious only talk_
+_Oh, to conquer that mountain I do hope_
 
 
-_Ere my youth is gone amd tired old age sets in
+_For these fields many do daily walk_
 
-The great mountain's crown I must win_
+_But of the eagle's perch even the ambitious only talk_
+
+
+_Ere my youth is gone amd tired old age sets in_
+
+_The great mountain's crown I must win_
 
