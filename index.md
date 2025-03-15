@@ -16,7 +16,7 @@ that. You'll know me - at least a little bit.
 | `languages I know`| Hindi, English, Panjabi, Sanskrit |
 | `age`             | 13                                |
 | `location`        | Delhi, India                      |
-|:------------------|:----------------------------------|
+
 
 # Stuff I believe in:
 - liberal humanism
