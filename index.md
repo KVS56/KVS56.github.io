@@ -34,3 +34,9 @@ that. You'll know me - at least a little bit.
 - _Cogito ergo sum_
 - **Tat tvam asi**
 - **Vasudhaiva Kutumbakam**
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+As you may have estimated from my moderately obscure literary refrences at the top of the page, I love reading books. As in, I read voraciously. At any given time, the number of books on my To Be Read list is always increasing, despit my reading 4 books at once.
+
+Not only do I read a lot, sometimes I can be found penning (or typing) down my daydreams. Mostly i just end up daydreaming _about_ writing though.
