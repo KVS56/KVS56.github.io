@@ -34,6 +34,7 @@ that. You'll know me - at least a little bit.
 - _Cogito ergo sum_
 - **Tat tvam asi**
 - **Vasudhaiva Kutumbakam**
+- Proposition 4.003 in _Tractatus Logico-Philosophicus_
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,4 +48,4 @@ Not only do I read a lot, sometimes I can be found penning (or typing) down my d
 - [Apokalypso](./apokalypso.html)
 - [Sur la nature des hommes](./afewlines.html)
 
-This is all poetry, but I also write essays and prose. I haven't put any online though, at the moment. If you have any reviews/comments, you can either email me at zeparselmouth@gmail.com or wait until I implement a commenting platform. You can also check out my crappy code projects on my [GitHub](github.com/KVS56).
+This is all poetry, but I also write essays and prose. I haven't put any online though, at the moment. If you have any reviews/comments, you can either email me at zeparselmouth@gmail.com or wait until I implement a commenting platform. You can also check out my crappy code projects on my Github.
