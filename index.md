@@ -35,6 +35,7 @@ that. You'll know me - at least a little bit.
 - **Tat tvam asi**
 - **Vasudhaiva Kutumbakam**
 - Proposition 4.003 in _Tractatus Logico-Philosophicus_
+- 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,4 +49,16 @@ Not only do I read a lot, sometimes I can be found penning (or typing) down my d
 - [Apokalypso](./apokalypso.html)
 - [Sur la nature des hommes](./afewlines.html)
 
-This is all poetry, but I also write essays and prose. I haven't put any online though, at the moment. If you have any reviews/comments, you can either email me at zeparselmouth@gmail.com or wait until I implement a commenting platform. You can also check out my crappy code projects on my Github.
+This is all poetry, but I also write essays and prose. I haven't put any online though, at the moment. If you have any reviews/comments, you can either email me at zeparselmouth@gmail.com or wait until I implement a commenting platform. You can also check out my crappy code projects on my Github account. (My username there is KVS56.)
+
+
+My other interests include reading and pondering philosophy. My interest here comes from a desire to become capable of understanding reality in its purest form.
+My views mostly stem from rationalism, but I have my existentialist days.
+
+
+This website is not yet complete. Your suggestions can find me at not only the above email address, but also at sharmakrishnavaibhav@gmail.com. Things I mean to add, but haven't yet:
+
+- [ ] Implement a comment section
+- [ ] Add a place for me to record musings in the form of blog posts
+- [ ] Add insights and analytics
+
