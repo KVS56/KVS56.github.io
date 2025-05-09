@@ -51,7 +51,8 @@ Not only do I read a lot, sometimes I can be found penning (or typing) down my d
 
 This is all poetry, but I also write essays and prose. I haven't put any online though, at the moment. If you have any reviews/comments, you can either email me at zeparselmouth@gmail.com or wait until I implement a commenting platform. You can also check out my crappy code projects on my Github account. (My username there is KVS56.)
 
-
+ also [counter counter](./counter.html)
+ 
 My other interests include reading and pondering philosophy. My interest here comes from a desire to become capable of understanding reality in its purest form.
 My views mostly stem from rationalism, but I have my existentialist days.
 
