@@ -38,11 +38,6 @@
           alert(randomItem);
          }
     
-    </script>
-<body>
+</script>
 <h1>Click the button in order to roll a random quote!</h1><br>
 <button onclick="zeFunction()">Roll a quote!</button>
-<br>
-© Vishal Sharma<br>
-Working contract to KVS Technologies<br>
-Created by Krishna Vaibhav Sharma and Aishwarya Sharma<br>
