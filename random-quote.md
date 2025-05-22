@@ -1,7 +1,3 @@
----
-title: QuoteRoller
----
-
 <script type = "text/javascript">
 
     function zeFunction() {
