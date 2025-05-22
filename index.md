@@ -54,7 +54,7 @@ This is all poetry, but I also write essays and prose. I haven't put any online 
 My other interests include reading and pondering philosophy. My interest here comes from a desire to become capable of understanding reality in its purest form.
 My views mostly stem from rationalism, but I have my existentialist days.
 
-I also created [this webpage](./counter.html) to make a sort of philosophical point about humanism and how invaluable lives are constantly being lost. In retrospect it is also somewhat morbid, but that is to be expected, as I made it after reading [this document](https://www.yudkowsky.net/other/yehuda), written by Eliezer Yudkowsky, as a monument to his brother Yehuda. Please also see [this page](.randomquote.html).
+I also created [this webpage](./counter.html) to make a sort of philosophical point about humanism and how invaluable lives are constantly being lost. In retrospect it is also somewhat morbid, but that is to be expected, as I made it after reading [this document](https://www.yudkowsky.net/other/yehuda), written by Eliezer Yudkowsky, as a monument to his brother Yehuda. Please also see [this page](./randomquote.html).
 
 This website is not yet complete. Your suggestions can find me at not only the above email address, but also at sharmakrishnavaibhav@gmail.com. Things I mean to add, but haven't yet:
 
