@@ -1,7 +1,7 @@
 <script>
     var now = new Date();
 
-    var learning = new Date(2025, 5 , 8,);
+    var learning = new Date(2025, 8, 5,);
     
     var elapsedT = now - learning;
 
@@ -26,4 +26,4 @@
 
 
 
-  <p>Since the year I made this, <span id="timer"></span> Lost to mortality, to war, to famine, to pestilence and to the march of time. That is 1.78 lives lost every single second. 107 lives lost every minute, 6,390 lost every hour, 153,000 every day, and 56 million every year.</p>
+  <p>Since the day I made this, <span id="timer"></span> Lost to mortality, to war, to famine, to pestilence and to the march of time. That is 1.78 lives lost every single second. 107 lives lost every minute, 6,390 lost every hour, 153,000 every day, and 56 million every year.</p>
