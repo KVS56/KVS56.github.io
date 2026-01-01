@@ -1,7 +1,7 @@
 <script>
     var now = new Date();
 
-    var learning = new Date(2025, 8, 5,);
+    var learning = new Date(2025, 5, 8,);
     
     var elapsedT = now - learning;
 
