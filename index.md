@@ -1,6 +1,6 @@
 
 # What's this and who are you?
-Hey there! I'm Krishna Vaibhav Sharma. (I also sometimes use the name Parsel. It wasn't mine, actually, in the beginning.) It looks like you've stumbled on my little corner of the internet. There can be any number of reasons why that happened. You may already know me. In that case, you may have looked at someone else's site, and thought about comparing mine.
+Hey there! I'm Krishna Vaibhav Sharma. (I also sometimes use the appropriated identity Parsel, or Tower.) It looks like you've stumbled on my little corner of the internet. There can be any number of reasons why that happened. You may already know me. In that case, you may have looked at someone else's site, and thought about comparing mine.
 
 Or, you may have seen it linked somewhere.
 
@@ -32,12 +32,12 @@ that. You'll know me - at least a little bit.
 - **Tat tvam asi**
 - **Vasudhaiva Kutumbakam**
 - Proposition 4.003 in _Tractatus Logico-Philosophicus_
-- in case the above sounds too pretentious, it means that analytical philosophy is filled with too much ambiguity, otherweise it would be long solved
+- in case the above sounds too pretentious, it means that analytical philosophy is filled with too much ambiguity, otherwise it would be long solved
 - 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-As you may have estimated from my moderately obscure literary references at the top of the page, I love the experience of literature.
+As you may have estimated from my moderately obscure literary references, I love the experience of literature.
 
 Not only do I read a lot, sometimes I can be found penning (or typing) down my daydreams. Mostly i just end up daydreaming _about_ writing, though.
 
@@ -48,6 +48,8 @@ Not only do I read a lot, sometimes I can be found penning (or typing) down my d
 - [Sur la nature des hommes](./afewlines.html)
 
 This is all poetry, but I also write essays and prose. I haven't put any online though, at the moment. All criticism is welcome If you have any reviews/comments, you can either email me at zeparselmouth@gmail.com or wait until I implement a commenting platform. You can also check out my crappy code projects on my Github account. (My username there is KVS56.)
+
+I participate in debates passionately in real life, so that is reflected here as 'pseudo-intellectual' comments and hopefully, later on, think pieces.
  
 My other interests include reading and pondering philosophy. No I'm not just pretending to be an intellectual, I do actually do all that.
 
